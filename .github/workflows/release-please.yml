@@ -12,3 +12,4 @@ jobs:
         id: release
         with:
           release-type: node
+          token: ${{ secrets.GITHUB_TOKEN }}
