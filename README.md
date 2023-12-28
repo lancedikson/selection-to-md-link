@@ -10,8 +10,7 @@ Pasted:
 
 ## Installation
 
-Install from Chrome Web Store:
-
+[Install from Chrome Web Store](https://chromewebstore.google.com/u/1/detail/selection-to-markdown-lin/opfbfedpbnhhjicncbiminkgfkdanefo?hl=en)
 
 ## Usage
 
